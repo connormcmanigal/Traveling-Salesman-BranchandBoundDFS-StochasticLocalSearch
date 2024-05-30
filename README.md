@@ -1,7 +1,7 @@
 # **Bidirectional Traveling Salesman Problem(TSP)**
 - Shuban Ranganath, Connor McManigal, and Peyton Politewicz
 
-*View the project here:* https://connormcmanigal.github.io/Traveling-Salesman-BranchandBoundDFS-StochasticLocalSearch/Project_Report_CS271P_group_4.pdf
+*View the project here:* https://connormcmanigal.github.io/Traveling-Salesman-BranchandBoundDFS-StochasticLocalSearch/report.pdf
 
 ## The Traveling Salesman Problem:
 - The bidirectional traveling salesman problem involves finding the most efficient and optimal route that visits a set of nodes and returns to the starting node, minimizing the total traversal cost.
