@@ -3,6 +3,8 @@
 
 *View the project here:* https://connormcmanigal.github.io/Traveling-Salesman-BranchandBoundDFS-StochasticLocalSearch/report.pdf
 
+https://connormcmanigal.github.io/Traveling-Salesman-BranchandBoundDFS-StochasticLocalSearch/report.pdf
+
 ## The Traveling Salesman Problem:
 - The bidirectional traveling salesman problem involves finding the most efficient and optimal route that visits a set of nodes and returns to the starting node, minimizing the total traversal cost.
 - Unlike the traditional TSP, this variant considers bidirectional connections between nodes, which introduces additional complexity.
